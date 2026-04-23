@@ -1,6 +1,6 @@
-# 📊 Trader Performance vs Market Sentiment
+# Trader Performance vs Market Sentiment
 
-## 🚀 Overview
+## Overview
 This project analyzes how market sentiment (Fear vs Greed) impacts trader behavior and performance on Hyperliquid.
 
 The goal is to uncover patterns that can inform **smarter trading strategies** by combining:
@@ -9,7 +9,7 @@ The goal is to uncover patterns that can inform **smarter trading strategies** b
 
 ---
 
-## 📂 Datasets
+## Datasets
 
 1. **Bitcoin Market Sentiment (Fear/Greed)**
    - Columns: timestamp, value, classification, date  
@@ -21,7 +21,7 @@ The goal is to uncover patterns that can inform **smarter trading strategies** b
 
 ---
 
-## ⚙️ Setup
+## Setup
 
 Install dependencies:
 
