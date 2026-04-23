@@ -11,7 +11,7 @@ The goal is to identify patterns and derive **actionable trading strategies** us
 
 # Part A - Data Preparation
 
-## 📂 Datasets
+## Datasets
 
 ### 1. Bitcoin Market Sentiment
 - Columns: `timestamp`, `value`, `classification`, `date`
@@ -65,7 +65,7 @@ The goal is to identify patterns and derive **actionable trading strategies** us
 
 ---—-------------------------------------
 
-# 📊 Part B - Analysis
+# Part B - Analysis
 
 —-------------------------------------
 
@@ -97,9 +97,9 @@ The goal is to identify patterns and derive **actionable trading strategies** us
 
 ---
 
-## 🔹 2. Behavioral Changes
+##  2. Behavioral Changes
 
-### 📊 Trade Size
+### Trade Size
 
 | Sentiment | Avg Size (USD) |
 |----------|---------------|
