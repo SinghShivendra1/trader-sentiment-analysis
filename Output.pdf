@@ -1,0 +1,69 @@
+Sentiment columns: ['timestamp', 'value', 'classification', 'date']
+
+Trades columns: Index(['account', 'coin', 'execution price', 'size tokens', 'size usd', 'side',
+       'timestamp ist', 'start position', 'direction', 'closed pnl',
+       'transaction hash', 'order id', 'crossed', 'fee', 'trade id',
+       'timestamp'],
+      dtype='object')
+
+Sentiment shape: (2644, 4)
+Trades shape: (211224, 16)
+=======================
+Sentiment missing:
+ timestamp         0
+value             0
+classification    0
+date              0
+dtype: int64
+
+Trades missing:
+ account             0
+coin                0
+execution price     0
+size tokens         0
+size usd            0
+side                0
+timestamp ist       0
+start position      0
+direction           0
+closed pnl          0
+transaction hash    0
+order id            0
+crossed             0
+fee                 0
+trade id            0
+timestamp           0
+dtype: int64
+
+Sentiment duplicates: 0
+Trades duplicates: 0
+
+================
+Trades date range: 2023-05-01 2025-05-01
+Sentiment date range: 2018-02-01 2025-05-02
+
+=====================
+Daily Pnl:
+
+
+Win Rate:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Model Accuracy:
+
+
+
+
